@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/raplop/static/js/main.fc0e1f9b.js",
+    "main.js": "/raplop/static/js/main.34dab549.js",
     "static/js/787.30cc25ac.chunk.js": "/raplop/static/js/787.30cc25ac.chunk.js",
     "static/media/aj21hero.png": "/raplop/static/media/aj21hero.035e1bf27142ac8fd743.png",
     "static/media/boxCopy1.png": "/raplop/static/media/boxCopy1.120a603eab564d32e31b.png",
@@ -30,10 +30,10 @@
     "static/media/raplop.svg": "/raplop/static/media/raplop.7a35826792e19ae758891b1824d831f3.svg",
     "static/media/mobileMenu.svg": "/raplop/static/media/mobileMenu.312ecf79e0fcb3573babadacd4735042.svg",
     "index.html": "/raplop/index.html",
-    "main.fc0e1f9b.js.map": "/raplop/static/js/main.fc0e1f9b.js.map",
+    "main.34dab549.js.map": "/raplop/static/js/main.34dab549.js.map",
     "787.30cc25ac.chunk.js.map": "/raplop/static/js/787.30cc25ac.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.fc0e1f9b.js"
+    "static/js/main.34dab549.js"
   ]
 }
